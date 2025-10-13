@@ -17,7 +17,7 @@ This dashboard provides vital insights into hospital readmissions, patient demog
 
 ⚙️ How to Use:
 
-Use slicers (👤 Gender, 🌍 Race, 💊 Diabetes Medication, 🔄 Readmission) to filter and analyze specific patient segments.
+Use slicers ( Gender,  Race,  Diabetes Medication,  Readmission) to filter and analyze specific patient segments.
 
 Target elderly patients and chronic disease specialties for proactive care planning.
 
