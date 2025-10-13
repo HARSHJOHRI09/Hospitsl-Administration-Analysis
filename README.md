@@ -7,13 +7,13 @@ This dashboard provides vital insights into hospital readmissions, patient demog
 
 🔍 Key Visual Insights:
 
-👵 Readmission by Age Group: Horizontal bar chart reveals highest readmissions among elderly patients, especially ages 70-90. Age is a critical risk factor for readmission.
+ Readmission by Age Group: Horizontal bar chart reveals highest readmissions among elderly patients, especially ages 70-90. Age is a critical risk factor for readmission.
 
-🏨 Average Length of Stay by Specialty: Bar chart highlights longer hospital stays in specialties like Endocrinology and Pulmonology, suggesting chronic condition management needs focus.
+ Average Length of Stay by Specialty: Bar chart highlights longer hospital stays in specialties like Endocrinology and Pulmonology, suggesting chronic condition management needs focus.
 
-🧑‍🤝‍🧑 Readmission Rate by Gender & Race: Chart shows disparities, with Caucasian patients having the highest readmission rates, pointing to opportunities for more equitable care.
+ Readmission Rate by Gender & Race: Chart shows disparities, with Caucasian patients having the highest readmission rates, pointing to opportunities for more equitable care.
 
-🍩 Diabetes Impact on Readmission: Pie chart illustrates that 23% of diabetic patients are readmitted within 30 days, emphasizing the importance of effective diabetes management.
+ Diabetes Impact on Readmission: Pie chart illustrates that 23% of diabetic patients are readmitted within 30 days, emphasizing the importance of effective diabetes management.
 
 ⚙️ How to Use:
 
